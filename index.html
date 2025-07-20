@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="css/education.css">
+</head>
+<body>
+<div class="fixedWrapper">
+  <div class="sContainer">
+      <div class="volUp"></div>
+      <div class="volDown"></div>
+    <div class="icons">
+      <i class="icon-wifi"></i>
+      <p1 class="lte">LTE</p1>
+      <p1 class="lte2" id="lte"></p1>
+        <i class="icon-battery-4"></i>
+    </div>
+      <p class="time" id="clock"></p>
+      <p class="date" id="date"></p>
+        <div class="slide active" id="s1"></div>
+        <div class="slide" id="s2"></div>
+        <div class="slide" id="s3"></div>
+      <i class="icon-right-open" onclick="nextSlide()"></i>
+      <i class="icon-left-open" onclick="prevSlide()"></i>
+        <input type="checkbox" id="toggle" hidden>
+        <label for="toggle" class="main-button"></label>
+
+<div class="box"></div>
+
+    <div class="line"></div>
+  <div class="dContainer">
+    <i class="icon-record" onclick="s1()"></i>
+    <i class="icon-record" onclick="s2()"></i>
+    <i class="icon-record" onclick="s3()"></i>
+  </div>
+</div>
+</div>
+</body>
+</html>

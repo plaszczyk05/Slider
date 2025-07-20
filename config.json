@@ -1,0 +1,88 @@
+{
+  "name": "education",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e188c02f740feff7e2d2bce1950b75fa",
+      "css": "record",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "715e1003368da5e5c41ae35190af68a1",
+      "css": "right-open",
+      "code": 59393,
+      "src": "websymbols"
+    },
+    {
+      "uid": "04960bf02134620e6c61bac8d6569502",
+      "css": "left-open",
+      "code": 59394,
+      "src": "websymbols"
+    },
+    {
+      "uid": "dc4a03854ef986d64565143bea4241aa",
+      "css": "right-open-1",
+      "code": 59395,
+      "src": "elusive"
+    },
+    {
+      "uid": "c0a07aca383ff2a164a4d691fa46e35c",
+      "css": "left-open-1",
+      "code": 59396,
+      "src": "elusive"
+    },
+    {
+      "uid": "749e7d90a9182938180f1d2d8c33584e",
+      "css": "right-open-2",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "c311c48d79488965b0fab7f9cd12b6b5",
+      "css": "left-open-2",
+      "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "cd4bfdae4dc89b175ff49330ce29611a",
+      "css": "wifi",
+      "code": 61931,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "69bd9dfe950d07d910f39c6988364e49",
+      "css": "battery-4",
+      "code": 62016,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7ab4ec24078133effbc4e923b65ef835",
+      "css": "battery-3",
+      "code": 62017,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e430a168b45ba40aa988ca1a5034a553",
+      "css": "battery-2",
+      "code": 62018,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "99f4ea74adc24022106932d84a49b055",
+      "css": "battery-1",
+      "code": 62019,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9983d2489e028d659d196915a25ef3ca",
+      "css": "battery-0",
+      "code": 62020,
+      "src": "fontawesome"
+    }
+  ]
+}
